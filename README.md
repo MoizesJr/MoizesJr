@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Moizés Jr</h1>
-<p align="center">Desenvolvedor backend em formação | Java + Spring Boot + Angular + MySQL</p>
+<p align="center">Estudante fullstack cursando pós engenharia de software  | Java + Spring Boot + Angular + MySQL</p>
 
 ---
 
@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moizes-junior)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moizesjr)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://moizesjr.dev)
 
 ---
 
@@ -23,7 +22,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -38,14 +36,6 @@
 
 ---
 
-### 💻 Principais projetos
-
-- 🔗 [Sistema de Rastreamento de Produção](https://github.com/moizesjr/sistema-rastreabilidade)
-- 🔗 [ToDo List com Angular e Spring](https://github.com/moizesjr/todo-angular-spring)
-- 🔗 *(adicione mais conforme desejar)*
-
----
-
 ### 👨‍💻 Sobre mim
 
-Sou um apaixonado por tecnologia, estudando para me tornar desenvolvedor backend com foco em soluções robustas usando Java, Spring Boot, Angular e MySQL. Estou sempre buscando evoluir e contribuir com projetos práticos.
+Sou um apaixonado por tecnologia, estudando para me tornar desenvolvedor backend com foco em soluções robustas usando Java, Spring Boot, Angular e MySQL. Estou em busca da minha primeira oportunidade para minha transição de carreira, me dedico bastante nos estudos e tenho certeza que vou me desenvolver bem na primeira oportunidade, estou investindo para isso!
