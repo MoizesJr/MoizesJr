@@ -36,6 +36,11 @@
 
 ---
 
+### 💻 Principais projetos
+
+- 🔗 [Sistema de Rastreamento de Produção]([https://github.com/moizesjr/sistema-rastreabilidade](https://github.com/MoizesJr/rastreabilidadeOP))
+
+---
 ### 👨‍💻 Sobre mim
 
 Sou um apaixonado por tecnologia, estudando para me tornar desenvolvedor backend com foco em soluções robustas usando Java, Spring Boot, Angular e MySQL. Estou em busca da minha primeira oportunidade para minha transição de carreira, me dedico bastante nos estudos e tenho certeza que vou me desenvolver bem na primeira oportunidade, estou investindo para isso!
