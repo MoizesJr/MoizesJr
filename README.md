@@ -38,7 +38,7 @@
 
 ### 💻 Principais projetos
 
-- 🔗 [Sistema de Rastreamento de Produção]([https://github.com/moizesjr/sistema-rastreabilidade](https://github.com/MoizesJr/rastreabilidadeOP))
+- 🔗 [Sistema de Rastreamento de Produção](https://github.com/MoizesJr/rastreabilidadeOP)
 
 ---
 ### 👨‍💻 Sobre mim
