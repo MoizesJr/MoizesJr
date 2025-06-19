@@ -36,6 +36,11 @@
 
 ---
 
+### 💻 projetos de estudo
+
+- 🔗 [Livro: Entendendo Algoritmos](https://github.com/MoizesJr/entendendoAlgoritmos)
+
+---
 ### 💻 Principais projetos
 
 - 🔗 [Sistema de Rastreamento de Produção](https://github.com/MoizesJr/rastreabilidadeOP)
