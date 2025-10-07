@@ -39,6 +39,7 @@
 ### 💻 projetos de estudo
 
 - 🔗 [Livro: Entendendo Algoritmos](https://github.com/MoizesJr/entendendoAlgoritmos)
+- 🔗 [Curso Angular](https://github.com/MoizesJr/crud-angular-material)
 
 ---
 ### 💻 Principais projetos
