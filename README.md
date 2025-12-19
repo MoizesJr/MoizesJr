@@ -47,6 +47,7 @@
 ---
 ### 💻 Principais projetos
 
+- 🔗 [Passeio-APP](https://github.com/MoizesJr/passeio-app)
 - 🔗 [Sistema de Rastreamento de Produção](https://github.com/MoizesJr/rastreabilidadeOP)
 - 🔗 [Cadastro de clientes](https://github.com/MoizesJr/crud-angular-material)
 
