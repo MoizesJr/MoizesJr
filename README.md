@@ -33,8 +33,12 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moizesjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizesjr&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moizesjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de moizesjr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizesjr&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizesjr&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
