@@ -31,16 +31,15 @@
 ---
 
 ### 📈 Estatísticas do GitHub
+<p align="center">
+<img loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moizesjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />  
+<img loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moizesjr&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
+<p/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moizesjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de moizesjr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizesjr&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizesjr&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
+<img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=moizesjr&theme=tokyonight" />
+<p/>
+  
 ---
 
 ### 💻 projetos de estudo
@@ -49,6 +48,7 @@
 - 🔗 [Curso Angular](https://github.com/MoizesJr/crud-angular-material)
 
 ---
+
 ### 💻 Principais projetos
 
 - 🔗 [Passeio-APP](https://github.com/MoizesJr/passeio-app)
