@@ -44,6 +44,8 @@
 
 ### 💻 projetos de estudo
 
+- 🔗 [Sistema de cadastro de serviços (front-end)](https://https://github.com/MoizesJr/clientes-frontend)
+- 🔗 [Sistema de cadastro de serviços (back-end)](https://github.com/MoizesJr/clientes-backend)
 - 🔗 [Livro: Entendendo Algoritmos](https://github.com/MoizesJr/entendendoAlgoritmos)
 - 🔗 [Curso Angular](https://github.com/MoizesJr/crud-angular-material)
 
@@ -51,12 +53,12 @@
 
 ### 💻 Principais projetos
 
-- 🔗 [Passeio-APP](https://github.com/MoizesJr/passeio-app)
-- 🔗 [API-passeio-app](https://github.com/MoizesJr/api-passeio-app)
+- 🔗 [Passeio-APP - frontend](https://github.com/MoizesJr/passeio-app)
+- 🔗 [API-passeio-app - back-end](https://github.com/MoizesJr/api-passeio-app)
 - 🔗 [Sistema de Rastreamento de Produção](https://github.com/MoizesJr/rastreabilidadeOP)
 - 🔗 [Cadastro de clientes](https://github.com/MoizesJr/crud-angular-material)
 
 ---
 ### 👨‍💻 Sobre mim
 
-Sou um apaixonado por tecnologia, estudando para me tornar desenvolvedor Full-stack com foco em soluções robustas usando Java, Spring Boot, Angular e MySQL. Estou em busca da minha primeira oportunidade para minha transição de carreira, me dedico bastante nos estudos e tenho certeza que vou me desenvolver bem na primeira oportunidade, estou investindo para isso!
+Sou apaixonado por tecnologia, estudando para me tornar desenvolvedor Full-stack com foco em soluções robustas usando Java, Spring Boot, Angular e MySQL. Tive a felicidade de conseguir minha transição de carreira como Analista de Sistema ERP Sankhya na mesma empresa onde trabalho. Porém a sede de aprender e me atualizar não para, tenho uma regrada rotina de estudo para continuar crescendo e ser tornar um profissional de destaque na area!!
